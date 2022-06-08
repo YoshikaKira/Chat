@@ -1,0 +1,15 @@
+C:\Users\STUDENT\source\repos\NewChatHe\bin\Debug\NewChatHe.exe.config
+C:\Users\STUDENT\source\repos\NewChatHe\bin\Debug\NewChatHe.exe
+C:\Users\STUDENT\source\repos\NewChatHe\bin\Debug\NewChatHe.pdb
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\MainWindow.g.cs
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\App.g.cs
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe_MarkupCompile.cache
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe_MarkupCompile.lref
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\MainWindow.baml
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe.g.resources
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe.Properties.Resources.resources
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe.csproj.GenerateResource.cache
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe.exe
+C:\Users\STUDENT\source\repos\NewChatHe\obj\Debug\NewChatHe.pdb
